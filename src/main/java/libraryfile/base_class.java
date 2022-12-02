@@ -19,5 +19,5 @@ public class base_class {
 
 		driver.get(utility_class.getdatafrompropertiesfile("URL"));
 	}
-        System.out.println("url");
+       // System.out.println("url");
 }
